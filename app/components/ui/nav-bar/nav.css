@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.logo{
+    font-family: "Monoton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  background-color: black;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.nav-main{
+    border-bottom: 1px solid #eee;
+    height: 80px;
+    padding: 0px 2rem;
+}
+.nav-btn{
+  background: rgb(26, 26, 26);
+  color: #fff;
+  border-radius: 10px;
+  padding: 0.5rem 2rem;
+  cursor: pointer;
+}
+.nav-none{
+  visibility: hidden;
+  background: transparent;
+  border: none;
+  height: 0px;
+  width: 0px;
+}
